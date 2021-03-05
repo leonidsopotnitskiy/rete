@@ -29,6 +29,3 @@ Examples
 License
 ----
 [MIT](http://opensource.org/licenses/MIT)
-
-[Donate](http://rete.js.org/#support)
----
